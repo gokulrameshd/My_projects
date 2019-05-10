@@ -1,0 +1,5 @@
+#CREATE A IMAGE CLASSIFICATION MODEL FROM VIDEOS:
+
+1.Extract frames from the videos
+2.Prepare Image classification dataset
+3.Build Image classification Model for the dataset
